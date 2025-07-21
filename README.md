@@ -19,8 +19,7 @@ An interactive, agent-powered Streamlit app that guides you through the entire *
 ---
 
 ## Workflow Overview
-
-[SDLC Workflow](workflow.png)
+(workflow.png)
 
 
 ## 🛠️ Setup Instructions
