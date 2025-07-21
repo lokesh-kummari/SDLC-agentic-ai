@@ -20,7 +20,7 @@ An interactive, agent-powered Streamlit app that guides you through the entire *
 
 ## Workflow Overview
 
-[SDLC Workflow](/Users/lokesh/SDLC AGENTIC AI/workflow.png)
+[SDLC Workflow](workflow.png)
 
 
 ## 🛠️ Setup Instructions
